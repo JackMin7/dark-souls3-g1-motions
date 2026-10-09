@@ -229,25 +229,7 @@ dark-souls3-g1-motions
 </details>
 
 <details>
-<summary>32 Toast</summary>➜  dark-souls3-g1-motions git:(main) git merge origin/main --allow-unrelated-histories --no-edit
-Merge made by the 'ort' strategy.
- LICENSE | 21 +++++++++++++++++++++
- 1 file changed, 21 insertions(+)
- create mode 100644 LICENSE
-➜  dark-souls3-g1-motions git:(main) GIT_SSH_COMMAND='ssh -o ControlMaster=no -o ControlPath=none -o ConnectTimeout=15' \
-git push -u origin main
-枚举对象中: 95, 完成.
-对象计数中: 100% (95/95), 完成.
-使用 20 个线程进行压缩
-压缩对象中: 100% (92/92), 完成.
-写入对象中: 100% (94/94), 200.60 MiB | 3.22 MiB/s, 完成.
-总共 94（差异 2），复用 0（差异 0），包复用 0
-remote: Resolving deltas: 100% (2/2), done.
-To github.com:JackMin7/dark-souls3-g1-motions.git
-   24edb73..1d30805  main -> main
-分支 'main' 设置为跟踪来自 'origin' 的远程分支 'main'。
-➜  dark-souls3-g1-motions git:(main) 
-
+<summary>32 Toast</summary>
 
 ![32 Toast](media/comparisons/32_Toast.gif)
 
