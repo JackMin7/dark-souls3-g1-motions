@@ -4,7 +4,6 @@
 
 33 collectible player gestures from Dark Souls III, retargeted to the 29-joint Unitree G1. Includes arm alignment, terminal-pose corrections, ground-height correction and support optimization for 13 crouching, seated, kneeling or lying motions.
 
-> Local publication candidate. Source-motion and preview redistribution rights and licenses are still pending review. This is not yet an openly licensed dataset or an official game/robot release.
 
 ## Motion comparisons
 
