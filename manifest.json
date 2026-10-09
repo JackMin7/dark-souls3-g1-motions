@@ -1,0 +1,343 @@
+{
+  "fps": 30,
+  "robot": "Unitree G1 (29 joints)",
+  "columns": [
+    "root_x",
+    "root_y",
+    "root_z",
+    "root_qx",
+    "root_qy",
+    "root_qz",
+    "root_qw",
+    "left_hip_pitch_joint",
+    "left_hip_roll_joint",
+    "left_hip_yaw_joint",
+    "left_knee_joint",
+    "left_ankle_pitch_joint",
+    "left_ankle_roll_joint",
+    "right_hip_pitch_joint",
+    "right_hip_roll_joint",
+    "right_hip_yaw_joint",
+    "right_knee_joint",
+    "right_ankle_pitch_joint",
+    "right_ankle_roll_joint",
+    "waist_yaw_joint",
+    "waist_roll_joint",
+    "waist_pitch_joint",
+    "left_shoulder_pitch_joint",
+    "left_shoulder_roll_joint",
+    "left_shoulder_yaw_joint",
+    "left_elbow_joint",
+    "left_wrist_roll_joint",
+    "left_wrist_pitch_joint",
+    "left_wrist_yaw_joint",
+    "right_shoulder_pitch_joint",
+    "right_shoulder_roll_joint",
+    "right_shoulder_yaw_joint",
+    "right_elbow_joint",
+    "right_wrist_roll_joint",
+    "right_wrist_pitch_joint",
+    "right_wrist_yaw_joint"
+  ],
+  "license_status": "pending rights review; no redistribution license granted",
+  "clips": [
+    {
+      "name": "01_Beckon.csv",
+      "frames": 191,
+      "fps": 30,
+      "sha256": "a83af29058b88b035ddcd885f0124646d83b06981a6280ed4ab2e637df6c5fcd",
+      "path": "data/g1/01_Beckon.csv",
+      "duration_s": 6.366666666666666,
+      "support_optimized": false
+    },
+    {
+      "name": "02_Praise_the_Sun.csv",
+      "frames": 106,
+      "fps": 30,
+      "sha256": "5de7dbddd5388ec68381906264044b86c62a2bae8d2a3131f284de81b3145ee4",
+      "path": "data/g1/02_Praise_the_Sun.csv",
+      "duration_s": 3.533333333333333,
+      "support_optimized": false
+    },
+    {
+      "name": "03_Point_Up.csv",
+      "frames": 151,
+      "fps": 30,
+      "sha256": "e9e65957f5faa94fa004342f5b5bcc9cf314b43df7fa635937653166655cb319",
+      "path": "data/g1/03_Point_Up.csv",
+      "duration_s": 5.033333333333333,
+      "support_optimized": false
+    },
+    {
+      "name": "04_Point_Down.csv",
+      "frames": 151,
+      "fps": 30,
+      "sha256": "bc321ef3b9856518eba114027589d5c58da2dbedb011e7b21308c2f1a0a5ba4c",
+      "path": "data/g1/04_Point_Down.csv",
+      "duration_s": 5.033333333333333,
+      "support_optimized": false
+    },
+    {
+      "name": "05_Duel_Bow.csv",
+      "frames": 184,
+      "fps": 30,
+      "sha256": "bfe5cea46c7acd83a1237a555bd7a1666840d860eda6cd7d1609331561ef6989",
+      "path": "data/g1/05_Duel_Bow.csv",
+      "duration_s": 6.133333333333334,
+      "support_optimized": false
+    },
+    {
+      "name": "06_Point_Forward.csv",
+      "frames": 131,
+      "fps": 30,
+      "sha256": "ca1f7128cd2a091d013a0cbf9564db55d61bbd3be9f0fca1deb744d85d8a711e",
+      "path": "data/g1/06_Point_Forward.csv",
+      "duration_s": 4.366666666666666,
+      "support_optimized": false
+    },
+    {
+      "name": "07_Welcome.csv",
+      "frames": 115,
+      "fps": 30,
+      "sha256": "e969b0b756eb583a4f6c4a2b3a13f597f5170849f794cc951c0fafdddfb5836d",
+      "path": "data/g1/07_Welcome.csv",
+      "duration_s": 3.8333333333333335,
+      "support_optimized": false
+    },
+    {
+      "name": "08_Prostration.csv",
+      "frames": 263,
+      "fps": 30,
+      "sha256": "0f1421ad14c9128352a96a4fe3f1c1536988a7bce63327a5eb9f4392e18446d6",
+      "path": "data/g1/08_Prostration.csv",
+      "duration_s": 8.766666666666667,
+      "support_optimized": true
+    },
+    {
+      "name": "09_Proper_Bow.csv",
+      "frames": 121,
+      "fps": 30,
+      "sha256": "e793ea24086d8502cb706ba57629639d8f27a083e87418b1ca48019f2311a696",
+      "path": "data/g1/09_Proper_Bow.csv",
+      "duration_s": 4.033333333333333,
+      "support_optimized": false
+    },
+    {
+      "name": "10_Prayer.csv",
+      "frames": 153,
+      "fps": 30,
+      "sha256": "b95b39fec0000081e0988239c93bd79e997cadf4d3c0af1dd1d934728eb1cc07",
+      "path": "data/g1/10_Prayer.csv",
+      "duration_s": 5.1,
+      "support_optimized": true
+    },
+    {
+      "name": "11_Bow.csv",
+      "frames": 181,
+      "fps": 30,
+      "sha256": "15d44fc102e59e2cfaea888099ea362b131581fe7b516c986179cd45bf9d3feb",
+      "path": "data/g1/11_Bow.csv",
+      "duration_s": 6.033333333333333,
+      "support_optimized": false
+    },
+    {
+      "name": "12_Wave.csv",
+      "frames": 171,
+      "fps": 30,
+      "sha256": "91fd9de554ffe0da121f5fa605323671225cbd24f5b22162e6cc1bd5740e1e8a",
+      "path": "data/g1/12_Wave.csv",
+      "duration_s": 5.7,
+      "support_optimized": false
+    },
+    {
+      "name": "13_Hurrah.csv",
+      "frames": 171,
+      "fps": 30,
+      "sha256": "5b71150f336c0407e5ca8444a35b1e4fa1dd8203ab0bedddffb64e069c9afc83",
+      "path": "data/g1/13_Hurrah.csv",
+      "duration_s": 5.7,
+      "support_optimized": false
+    },
+    {
+      "name": "14_Jump_for_Joy.csv",
+      "frames": 106,
+      "fps": 30,
+      "sha256": "8efc81ec779ca16881d9b60db362cdf70d278223a0c84d93dd95f7f15ff12984",
+      "path": "data/g1/14_Jump_for_Joy.csv",
+      "duration_s": 3.533333333333333,
+      "support_optimized": false
+    },
+    {
+      "name": "15_Joy.csv",
+      "frames": 156,
+      "fps": 30,
+      "sha256": "d488220df4257316594d256a191720ef1a73f8b577393f5658d00630a07eb07f",
+      "path": "data/g1/15_Joy.csv",
+      "duration_s": 5.2,
+      "support_optimized": false
+    },
+    {
+      "name": "16_My_Thanks.csv",
+      "frames": 221,
+      "fps": 30,
+      "sha256": "2088733efdd8ee0d4c82ee7e3e140cfe8a7fafb34d59ab3a09ba9baa96eb4676",
+      "path": "data/g1/16_My_Thanks.csv",
+      "duration_s": 7.366666666666666,
+      "support_optimized": true
+    },
+    {
+      "name": "17_Rejoice.csv",
+      "frames": 126,
+      "fps": 30,
+      "sha256": "403a52f5fcab29cd84d6a7f842afa5ddf6686151ce0c2e4694ce8cc8acf18aec",
+      "path": "data/g1/17_Rejoice.csv",
+      "duration_s": 4.2,
+      "support_optimized": false
+    },
+    {
+      "name": "18_Rest.csv",
+      "frames": 423,
+      "fps": 30,
+      "sha256": "de590c7271f78da27bbf537c4556547c226326596b972bef23d00a0ff509d452",
+      "path": "data/g1/18_Rest.csv",
+      "duration_s": 14.1,
+      "support_optimized": true
+    },
+    {
+      "name": "19_By_My_Sword.csv",
+      "frames": 136,
+      "fps": 30,
+      "sha256": "ff26db11ec78471210779126157ba71b5088ebf624688638c8752df1908fc2fb",
+      "path": "data/g1/19_By_My_Sword.csv",
+      "duration_s": 4.533333333333333,
+      "support_optimized": false
+    },
+    {
+      "name": "20_Dignified_Bow.csv",
+      "frames": 141,
+      "fps": 30,
+      "sha256": "718cee50caa56e33431c03515ba352ea756fb64a7f509e2f8eeca218e85d4b2e",
+      "path": "data/g1/20_Dignified_Bow.csv",
+      "duration_s": 4.7,
+      "support_optimized": false
+    },
+    {
+      "name": "21_Curl_Up.csv",
+      "frames": 123,
+      "fps": 30,
+      "sha256": "be51dea47c38b362b92a20e818baa90a00ff52f53e5c5b132e1608abded11a5f",
+      "path": "data/g1/21_Curl_Up.csv",
+      "duration_s": 4.1,
+      "support_optimized": true
+    },
+    {
+      "name": "22_Stretch_Out.csv",
+      "frames": 338,
+      "fps": 30,
+      "sha256": "4101b8cb54746f7805ba06cf894aeb8c313346e3e7f19d6d24547291d68ddc76",
+      "path": "data/g1/22_Stretch_Out.csv",
+      "duration_s": 11.266666666666667,
+      "support_optimized": true
+    },
+    {
+      "name": "23_Call_Over.csv",
+      "frames": 131,
+      "fps": 30,
+      "sha256": "e86356616f4893280a34ce319fcd61f8ed6ca585a9f115a7fe2c2720436ff780",
+      "path": "data/g1/23_Call_Over.csv",
+      "duration_s": 4.366666666666666,
+      "support_optimized": false
+    },
+    {
+      "name": "24_Collapse.csv",
+      "frames": 373,
+      "fps": 30,
+      "sha256": "b53d4e9a93354fe6e92a77f6ab84ea48ebffe30a48100fb555346ae4a2823189",
+      "path": "data/g1/24_Collapse.csv",
+      "duration_s": 12.433333333333334,
+      "support_optimized": true
+    },
+    {
+      "name": "25_Quiet_Resolve.csv",
+      "frames": 116,
+      "fps": 30,
+      "sha256": "7aa581a774b104d16a98db91ad09a03775b886f5d335921438ad141960b38e63",
+      "path": "data/g1/25_Quiet_Resolve.csv",
+      "duration_s": 3.8666666666666667,
+      "support_optimized": false
+    },
+    {
+      "name": "26_Patches_Squat.csv",
+      "frames": 231,
+      "fps": 30,
+      "sha256": "da2d7363c7440e5c6113fa209ef79631bb5e0a105fa64dcce1baa8d54d52c998",
+      "path": "data/g1/26_Patches_Squat.csv",
+      "duration_s": 7.7,
+      "support_optimized": true
+    },
+    {
+      "name": "27_Applause.csv",
+      "frames": 124,
+      "fps": 30,
+      "sha256": "1151cbaaf4e8c25323201429080cffa44e96c2ae1fcf4d28cb7622be298ddff5",
+      "path": "data/g1/27_Applause.csv",
+      "duration_s": 4.133333333333334,
+      "support_optimized": false
+    },
+    {
+      "name": "28_Path_of_the_Dragon.csv",
+      "frames": 219,
+      "fps": 30,
+      "sha256": "3cbb129e56c9a541dc5ca6a71f460671a71fdac99bd8384d802071fe7c46c8ee",
+      "path": "data/g1/28_Path_of_the_Dragon.csv",
+      "duration_s": 7.3,
+      "support_optimized": true
+    },
+    {
+      "name": "29_Legion_Etiquette.csv",
+      "frames": 246,
+      "fps": 30,
+      "sha256": "189a21b3032bcf34d8140b0af23e83f528c6557c804740f5175467d696de87c1",
+      "path": "data/g1/29_Legion_Etiquette.csv",
+      "duration_s": 8.2,
+      "support_optimized": false
+    },
+    {
+      "name": "30_Darkmoon_Loyalty.csv",
+      "frames": 228,
+      "fps": 30,
+      "sha256": "301948b15ae91f9311a547d0fe13e25b53c16650a2a5805325b80fc2d2db556b",
+      "path": "data/g1/30_Darkmoon_Loyalty.csv",
+      "duration_s": 7.6,
+      "support_optimized": true
+    },
+    {
+      "name": "31_Sleep.csv",
+      "frames": 378,
+      "fps": 30,
+      "sha256": "081517ef5fa127edd6d7b3800c93107501d6035213aef4c88ed916e2db174544",
+      "path": "data/g1/31_Sleep.csv",
+      "duration_s": 12.6,
+      "support_optimized": true
+    },
+    {
+      "name": "32_Toast.csv",
+      "frames": 336,
+      "fps": 30,
+      "sha256": "ea4e11d3a752afb1f3fb7170a32b865c436e60bca8b3218f54035fbd6a1a441f",
+      "path": "data/g1/32_Toast.csv",
+      "duration_s": 11.2,
+      "support_optimized": true
+    },
+    {
+      "name": "33_Silent_Ally.csv",
+      "frames": 215,
+      "fps": 30,
+      "sha256": "16d1e6d755d27cc14f5f6494c869ff564c2096c84103d21a7a3ec67b20aa4d38",
+      "path": "data/g1/33_Silent_Ally.csv",
+      "duration_s": 7.166666666666667,
+      "support_optimized": true
+    }
+  ],
+  "name": "Dark Souls III Motions for Unitree G1"
+}

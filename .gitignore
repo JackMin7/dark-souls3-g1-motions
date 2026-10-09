@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+review-only/
+*.blend
+*.blend1
+*.hkx
+*.bnd
+*.dcx
+*.zip

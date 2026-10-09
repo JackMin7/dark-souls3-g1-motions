@@ -1,0 +1,6 @@
+* text=auto
+*.csv -text
+*.json text eol=lf
+*.md text eol=lf
+*.gif binary
+*.png binary
