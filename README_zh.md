@@ -118,7 +118,7 @@
 
 <details>
 <summary>16 My Thanks</summary>
-dark-souls3-g1-motions
+
 ![16 My Thanks](media/comparisons/16_My_Thanks.gif)
 
 </details>
